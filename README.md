@@ -48,7 +48,7 @@ In the static website hosting page, Enable Static website hosting, leave Host a 
 
 Now if you try to access the object URL, you will be presented with an access denied message. This is because currently the S3 bucket is set to not allow public access. lets go change that.
 
-
+let's head back into the S3 bucket and change the permissions. Click on the permissions tab then on Edit within the Block public access (bucket settings) section.
 
 
 
