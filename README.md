@@ -30,10 +30,21 @@ Now that we are aware of what needs to be accomplished, lets get started!!!
 
 Create the S3 Bucket and upload the index.html file. let’s log into our AWS account then head over to S3. Go ahead and click Create bucket. Now we need to name the bucket. I will be naming mine levelupbankwebsite. I am going to leave everything else as default for now. Scroll down and click on Create bucket.
 
+![Snipe 1](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/4bbd7db0-61c4-4029-8def-74a684f56c16)
 
+![Snipe 2](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/106dd5ab-fed4-43bb-a1bf-09ef170e0fee)
 
+Now that our bucket has been created, let’s upload the index.html file to the S3 bucket.
 
+![Snipe 3](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/bb63238d-80d6-4765-a604-0c6c1f8305ef)
 
+Static website. Now let’s modify our S3 bucket so that it can host a static website. Locate your bucket in S3 and click on it. Click on the Properties tab up top and scroll down to Static Website and click the Edit button on the right hand side.
+
+![Snipe 4](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/6699b06f-9ba7-4a4f-a073-19c3725c3d45)
+
+In the static website hosting page, Enable Static website hosting, leave Host a static website selected and for Index document, type in index.html then click on Save changes on the bottom of the screen.
+
+![Snipe 5](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/4722f9f5-4a1d-4446-8ac7-df483c360865)
 
 
 
