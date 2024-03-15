@@ -30,7 +30,7 @@ Now that we are aware of what needs to be accomplished, lets get started!!!
 
 Create the S3 Bucket and upload the index.html file. let’s log into our AWS account then head over to S3. Go ahead and click Create bucket. Now we need to name the bucket. I will be naming mine levelupbankwebsite. I am going to leave everything else as default for now. Scroll down and click on Create bucket.
 
-![Snipe 1](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/4bbd7db0-61c4-4029-8def-74a684f56c16)
+![Snipe 1](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/be3adc7e-dd75-4fde-97f4-86582e990d8f)
 
 ![Snipe 2](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/106dd5ab-fed4-43bb-a1bf-09ef170e0fee)
 
