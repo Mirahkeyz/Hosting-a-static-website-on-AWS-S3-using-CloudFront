@@ -46,6 +46,8 @@ In the static website hosting page, Enable Static website hosting, leave Host a 
 
 ![Snipe 5](https://github.com/Mirahkeyz/Hosting-a-static-website-on-AWS-S3-using-CloudFront/assets/134533695/4722f9f5-4a1d-4446-8ac7-df483c360865)
 
+Now if you try to access the object URL, you will be presented with an access denied message. This is because currently the S3 bucket is set to not allow public access. lets go change that.
+
 
 
 
